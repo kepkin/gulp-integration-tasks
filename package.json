@@ -1,0 +1,46 @@
+{
+  "name": "gulp-integration-tasks",
+  "description": "Gulp integration tasks",
+  "version": "0.0.1",
+  "homepage": "https://github.com/apoterenko/gulp-integration-tasks",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:apoterenko/gulp-integration-tasks.git"
+  },
+  "author": {
+    "name": "apoterenko",
+    "url": "https://github.com/apoterenko"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-git": "^1.6.0",
+    "require-dir": "^0.3.0"
+  },
+  "engines": {
+    "node": ">= 0.12.4"
+  },
+  "license": "MIT",
+  "keywords": [
+    "gulp",
+    "integration",
+    "task"
+  ],
+  "gitHead": "80e9870acc2dbc1d8cd167aa6a18db81d6d83c55",
+  "bugs": {
+    "url": "https://github.com/apoterenko/gulp-integration-tasks/issues"
+  },
+  "_id": "gulp-integration-tasks@0.0.1",
+  "_from": "gulp-integration-taskst@0.0.1",
+  "_npmUser": {
+    "name": "apoterenko",
+    "email": "apoterenko@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "apoterenko",
+      "email": "apoterenko@gmail.com"
+    }
+  ],
+  "directories": {}
+}
